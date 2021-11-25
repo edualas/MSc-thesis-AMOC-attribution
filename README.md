@@ -1,1 +1,1 @@
-# MSc-thesis---AMOC-attribution
+# MSc-thesis-AMOC-attribution
